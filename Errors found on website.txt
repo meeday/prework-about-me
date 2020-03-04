@@ -1,0 +1,11 @@
+Errors found on the boo the dog website.
+
+1. There were no <h1></h1> tag for the title "Boo The Dog Fan Page!"
+2. in the Read more link the href was missing "". i.e. href="https//...."
+3. Line 47 of the code missing < before img class and > after img class
+4. No <li></li> tag for the list of Boo's favourite things
+5. Colour buttons mixed up
+6. Wrong Javascript file linked
+7. Random Boo facts button shows all facts as one paragraph. Each fact is not given its own "" in the facts array
+8. Pink button doesn't work because the pink is not in "" in the js file. i.e. "pink"
+9. in the Box grow and Shrink function the listening event for click is not in "". i.e. "click"
